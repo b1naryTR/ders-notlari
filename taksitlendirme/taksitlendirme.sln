@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taksitlendirme", "taksitlendirme\taksitlendirme.csproj", "{D5197972-F866-402B-BF37-293225F0B1EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5197972-F866-402B-BF37-293225F0B1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5197972-F866-402B-BF37-293225F0B1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5197972-F866-402B-BF37-293225F0B1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5197972-F866-402B-BF37-293225F0B1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E610AD3-F25C-4D23-8E48-93BF21883484}
+	EndGlobalSection
+EndGlobal

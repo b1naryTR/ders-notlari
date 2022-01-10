@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ödevdinamik2", "ödevdinamik2\ödevdinamik2.csproj", "{F739E7A0-1EB5-4C50-B51A-F2D86284DBB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F739E7A0-1EB5-4C50-B51A-F2D86284DBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F739E7A0-1EB5-4C50-B51A-F2D86284DBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F739E7A0-1EB5-4C50-B51A-F2D86284DBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F739E7A0-1EB5-4C50-B51A-F2D86284DBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56822988-ADCB-4D66-9566-F20F486DB51E}
+	EndGlobalSection
+EndGlobal
